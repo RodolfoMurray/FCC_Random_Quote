@@ -1,1 +1,1 @@
-## [A Random Quote Generator](https://github.com/RodolfoMurray/FCC_Random_Quote)
+## [A Random Quote Generator](https://rodolfomurray.github.io/FCC_Random_Quote_RodolfoMurray/)
