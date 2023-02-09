@@ -54,7 +54,7 @@ function App(){
                           <h2>Loading</h2>  
                         )}
                         <div className="row">
-                            <button onClick={getNewQuote} className="btn btn-block btn-primary ml-2" id="new-quote">New Quote</button>
+                            <button onClick={getNewQuote} className="btn btn-block btn-primary" id="new-quote">New Quote</button>
                             <a href="https://twitter.com/intent/tweet"  target="_blank" className="btn btn-block btn-warning" id="tweet-quote">
                                 <i className="fa fa-twitter"></i>
                             </a>
